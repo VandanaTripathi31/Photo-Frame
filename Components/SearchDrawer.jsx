@@ -10,35 +10,35 @@ export default function SearchDrawer() {
 
   const categories = [
     { id: 1, name: "Wooden Frames", image: "/Images/wooden.jpg", slug: "wood" },
-    { id: 2, name: "Metal Frames", image: "/images/metal.jpg", slug: "metal" },
+    { id: 2, name: "Metal Frames", image: "/Images/metal.jpg", slug: "metal" },
     {
       id: 3,
       name: "Modern Frames",
-      image: "/images/modern.jpg",
+      image: "/Images/modern.jpg",
       slug: "modern",
     },
     {
       id: 4,
       name: "Antique Frames",
-      image: "/images/antique.jpg",
+      image: "/Images/antique.jpg",
       slug: "antique",
     },
     {
       id: 5,
       name: "Collage Frames",
-      image: "/images/collage.jpeg",
+      image: "/Images/collage.jpeg",
       slug: "collage",
     },
     {
       id: 6,
       name: "Customized Frames",
-      image: "/images/customized.jpg",
+      image: "/Images/customized.jpg",
       slug: "customized",
     },
     {
       id: 7,
       name: "Cartoon Frames",
-      image: "/images/cartoon.jpg",
+      image: "/Images/cartoon.jpg",
       slug: "cartoon",
     },
   ];

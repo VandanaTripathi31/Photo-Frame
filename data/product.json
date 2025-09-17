@@ -1,0 +1,87 @@
+[
+  {
+    "id": 11,
+    "name": "Bohemian Macrame Photo Frame",
+    "price": 749,
+    "image": "/Images/bo.avif",
+    "category": "Bohemian"
+  },
+  {
+    "id": 9,
+    "name": "Customized Cartoon Portrait Frame",
+    "price": 1299,
+    "image": "/Images/cartoon.jpg",
+    "category": "Antique"
+  },
+  {
+    "id": 10,
+    "name": "Modern Minimalist Black Frame Set",
+    "price": 899,
+    "image": "/Images/per.jpg",
+    "category": "Modern"
+  },
+  
+  {
+    "id": 12,
+    "name": "LED Glow Personalized Frame",
+    "price": 1499,
+    "image": "/Images/LED.jpg",
+    "category": "LED"
+  },
+  {
+    "id": 13,
+    "name": "Rustic Wooden Engraved Frame",
+    "price": 999,
+    "image": "/Images/qood.jpg",
+    "category": "Wood"
+  },
+  {
+    "id": 14,
+    "name": "Family Tree Collage Wall Frame",
+    "price": 1199,
+    "image": "/Images/fam.jpg",
+    "category": "Collage"
+  },
+  {
+    "id": 15,
+    "name": "Crystal Glass Tabletop Frame",
+    "price": 1399,
+    "image": "/Images/cryst.webp",
+    "category": "Glass"
+  },
+  {
+    "id": 16,
+    "name": "Romantic Heart-Shaped Couple Frame",
+    "price": 799,
+    "image": "/Images/rom.webp",
+    "category": "Couple"
+  },
+  {
+    "id": 17,
+    "name": "Abstract Geometric Metal Frame",
+    "price": 899,
+    "image": "/Images/ge.avif",
+    "category": "Metal"
+  },
+  {
+    "id": 18,
+    "name": "Elegant White Marble Texture Frame",
+    "price": 1099,
+    "image": "/Images/e.jpg",
+    "category": "Marble"
+  },
+  {
+    "id": 19,
+    "name": "Custom Polaroid Style Mini Frames (Set of 6)",
+    "price": 699,
+    "image": "/Images/f.jpg",
+    "category": "Polaroid"
+  },
+  {
+    "id": 20,
+    "name": "Traditional Indian Ethnic Art Frame",
+    "price": 1299,
+    "image": "/Images/indi.webp",
+    "category": "Ethnic"
+  }
+]

@@ -1,8 +1,8 @@
 "use client";
 
 import products from "../data/product.json";
-import ProductCard from "../components/ProductCard";
-import Carousel from "../components/Carousel";
+import ProductCard from "../Components/ProductCard";
+import Carousel from "../Components/Carousel";
 import categories from "../data/categories.json";
 import blogs from "../data/blogs.json";
 import { Swiper, SwiperSlide } from "swiper/react";

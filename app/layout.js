@@ -1,6 +1,6 @@
 import "./globals.css";
-import Header from "../components/Header";
-import Footer from "../components/Footer.jsx";
+import Header from "../Components/Header.jsx";
+import Footer from "../Components/Footer.jsx";
 import { CartProvider } from "../Context/CartContext";
 
 export const metadata = {

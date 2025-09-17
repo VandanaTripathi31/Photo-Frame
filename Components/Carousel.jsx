@@ -6,11 +6,11 @@ import Image from "next/image";
 
 export default function Carousel() {
   const images = [
-    "/images/banner1.jpeg",
-    "/images/banner2.jpeg",
-    "/images/banner0.jpg",
-    "/images/banner4.jpg",
-    "/images/banner5.jpeg",
+    "/Images/banner1.jpeg",
+    "/Images/banner2.jpeg",
+    "/Images/banner0.jpg",
+    "/Images/banner4.jpg",
+    "/Images/banner5.jpeg",
   ];
 
   return (
